@@ -1,0 +1,121 @@
+baseURL = "/"
+title = "Bailey's Site"
+
+enableRobotsTXT = true
+
+theme = ["docsy"]
+
+enableGitInfo = true
+
+contentDir = "content"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+enableMissingTranslationPlaceholders = true
+
+# Comment out to enable taxonomies in Docsy
+# disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params.taxonomy]
+taxonomyCloud = ["tags", "categories"] 
+taxonomyCloudTitle = ["Tag Cloud", "Categories"] 
+taxonomyPageHeader = ["tags", "categories"] 
+
+
+# Highlighting config
+pygmentsCodeFences = true
+pygmentsUseClasses = false
+pygmentsUseClassic = false
+pygmentsStyle = "tango"
+
+[permalinks]
+blog = "/:section/:year/:month/:day/:slug/"
+
+[blackfriday]
+plainIDAnchors = true
+hrefTargetBlank = true
+angledQuotes = false
+latexDashes = true
+
+[imaging]
+resampleFilter = "CatmullRom"
+quality = 75
+anchor = "smart"
+
+[services]
+[services.googleAnalytics]
+# id = "UA-00000000-0"
+
+[languages]
+[languages.en]
+title = "Bailey's Site"
+description = ""
+languageName ="English"
+# Weight used for sorting.
+weight = 1
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+      style = "tango"
+
+[outputs]
+section = ["HTML", "print", "RSS"]
+
+[params]
+copyright = "Bailey Everts"
+# privacy_policy = "https://policies.google.com/privacy"
+
+# images = ["images/project-illustration.png"]
+# version_menu = "Releases"
+# archived_version = false
+# current doc set.
+# version = "0.0"
+# url_latest_version = "https://example.com"
+# github_repo = "https://github.com/google/docsy-example"
+# github_project_repo = "https://github.com/google/docsy"
+# github_branch= "main"
+
+gcs_engine_id = "d72aa9b2712488cc3"
+
+algolia_docsearch = false
+offlineSearch = false
+prism_syntax_highlighting = false
+
+[params.ui]
+breadcrumb_disable = false
+footer_about_disable = false
+navbar_logo = true
+navbar_translucent_over_cover_disable = false
+sidebar_menu_compact = false
+sidebar_search_disable = false
+
+[params.ui.feedback]
+enable = false
+yes = 'Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
+no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
+
+[params.ui.readingtime]
+enable = false
+
+[params.links]
+[[params.links.developer]]
+	name = "LinkedIn"
+	url = "https://www.linkedin.com/in/beverts312/"
+	icon = "fab fa-linkedin-in"
+        desc = "Connect with me on LinkedIn!"
+[[params.links.developer]]
+	name ="Twitter"
+	url = "https://twitter.com/Basha312"
+	icon = "fab fa-twitter"
+        desc = "Follow me on Twitter!"
+[[params.links.developer]]
+	name = "GitHub"
+	url = "https://github.com/beverts312"
+	icon = "fab fa-github"
+        desc = "Development takes place here!"
