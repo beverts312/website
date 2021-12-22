@@ -1,3 +1,8 @@
+---
+title: OpenSSL
+type: docs
+---
+
 [OpenSSL](https://www.openssl.org/) is a powerful CLI for working with certificates.  
 
 |Description| Command |
