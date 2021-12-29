@@ -1,3 +1,6 @@
 [submodule "themes/docsy"]
 	path = themes/docsy
 	url = https://github.com/google/docsy.git
+[submodule "content/notes/crypto"]
+	path = content/notes/crypto
+	url = git@github.com:beverts312/crypto-learning.git

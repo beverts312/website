@@ -24,6 +24,23 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Setup Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.9
+
+      - name: Setup Graphviz
+        uses: ts-graphviz/setup-graphviz@v1
+
+      - name: Build Crypto Diagrams
+        shell: bash
+        run: |
+          pushd './content/notes/crypto'
+          python -m pip install --upgrade pip
+          pip install -r ./dev-requirements.txt
+          inv d
+          popd
+
       - name: Setup Node
         uses: actions/setup-node@v2
 
