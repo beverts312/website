@@ -1,0 +1,6 @@
+<h3 style="margin-bottom: 0 !important;">{{ .Get "title" }}, {{ .Get "company" }}</h3>
+<div>
+<i>({{ .Get "start" }} - {{ .Get "end" }})</i>
+<br/>
+{{ .Inner | markdownify }}
+</div>
