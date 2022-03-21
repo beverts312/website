@@ -13,6 +13,9 @@ microservices and the procedural and cultural changes that come along with it.
 It is my belief that teams and organizations should have open, candid, and respectful
 communication so that they can be as effective as possible.
 
+* [LinkedIn](https://www.linkedin.com/in/beverts312/)
+* [Github](https://github.com/beverts312)
+
 ## Work History
 
 {{<job
