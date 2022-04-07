@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: my-web
+  description: Personal Website
+  annotations:
+    github.com/project-slug: 'beverts312/website'
+  links:
+    - url: https://baileyeverts.com
+      title: My Website
+      icon: dashboard
+spec:
+  type: website
+  lifecycle: production
+  owner: starlord
+  system: main-aws
