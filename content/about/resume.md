@@ -6,10 +6,8 @@ type: docs
 
 ## Professional Summary
 
-I am a technologist who is crazy about the cloud. I am capable of working on any part of the
-stack at any point in the process. Designing scalable development flows/pipelines that start
-at a commit and end at production is one of my passions. Experienced in the journey to
-microservices and the procedural and cultural changes that come along with it.
+I am a passionate technologist who loves to learn. I am capable of working on any part of the stack at any point in the process. 
+Designing scalable development flows/pipelines that start at a commit and end at production is one of my passions. Experienced in the journey to microservices and the procedural and cultural changes that come along with it.
 It is my belief that teams and organizations should have open, candid, and respectful
 communication so that they can be as effective as possible.
 
@@ -20,9 +18,18 @@ communication so that they can be as effective as possible.
 
 {{<job
     company="Fidelity Investments"
+    title="Director, Cloud Engineering"
+    start="April 2022"
+    end="Present"
+>}}
+I lead a team within Platform Engineering which enables other teams in the enterprise to migrate to the cloud by providing them with tooling and platforms for both Azure and AWS.
+{{</job>}}
+
+{{<job
+    company="Fidelity Investments"
     title="Director, Cloud Technologist"
     start="April 2021"
-    end="Present"
+    end="April 2022"
 >}}
 I help teams accelerate their journey to the cloud by providing tooling (infrastructure as code/pipeline templates/scripts), reference implementations, and expertise. As a member of the Azure Enablement team I play a major role in how we adopt Azure services and how we develop a multi-cloud strategy. Additionally I am responsible for not only making sure our solutions are secure, reliable, and scalable but also that they comply with audit requirements. As a member of the platform engineering group I must ensure our platforms provide similar or same interfaces and functionality as the solutions built for AWS. 
 {{</job>}}
@@ -136,3 +143,4 @@ Worked with a Professor and a Medical Doctor to develop a program which used AI 
 
 [ttu]: https://www.ttu.edu/
 [webber]: https://www.webberacademy.ca/
+
