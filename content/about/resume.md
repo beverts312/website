@@ -3,6 +3,7 @@ title: Resume
 type: docs
 ---
 
+[PDF Version](https://s3.amazonaws.com/repo.baileyeverts.com/resume-2022.pdf)
 
 ## Professional Summary
 
@@ -22,7 +23,10 @@ communication so that they can be as effective as possible.
     start="April 2022"
     end="Present"
 >}}
-I lead a team within Platform Engineering which enables other teams in the enterprise to migrate to the cloud by providing them with tooling and platforms for both Azure and AWS.
+* Lead a team within Platform Engineering which enables other teams in the enterprise to migrate to the cloud by providing them with tooling and platforms for both Azure and AWS
+* Design core aspects of our EKS based Kubernetes platform
+* Develop reusable infrastructure templates for AWS and Azure using terraform
+* Lead all Azure migration efforts in the business unit
 {{</job>}}
 
 {{<job
@@ -31,7 +35,14 @@ I lead a team within Platform Engineering which enables other teams in the enter
     start="April 2021"
     end="April 2022"
 >}}
-I help teams accelerate their journey to the cloud by providing tooling (infrastructure as code/pipeline templates/scripts), reference implementations, and expertise. As a member of the Azure Enablement team I play a major role in how we adopt Azure services and how we develop a multi-cloud strategy. Additionally I am responsible for not only making sure our solutions are secure, reliable, and scalable but also that they comply with audit requirements. As a member of the platform engineering group I must ensure our platforms provide similar or same interfaces and functionality as the solutions built for AWS. 
+* Accelerate Azure adoption for teams across the business unit
+* Create reusable infrastructure templates for teams to easily provision resources configured with the standards required by the enterprise
+* Create reusable pipeline templates to ensure code is built, analyzed, tested, in deployed in a consistent and compliant manner
+* Provide architectural support for teams migrating to Azure
+* Present solutions and standards to teams across the enterprise
+* Analyze the business units Azure needs and advocate for them in conversations with the broader organization and with Microsoft
+* Provide reference implementations for building deploying solutions to Azure
+* Ensure solutions are built in a way that enables portability between Azure and AWS
 {{</job>}}
 
 {{<job 
