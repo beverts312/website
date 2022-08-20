@@ -11,6 +11,10 @@ I love working with technology in both my professional and personal life. I am p
 
 This site is my playground, blog, and a place to keep some notes. Any opinions expressed here are my own.
 
+{{< imgproc ireland.jpg Fill "500x500" >}}
+My wife and I at my brothers wedding reception in Northern Ireland
+{{< /imgproc >}}
+
 {{< imgproc dall-e-dog-cigar.png Fill "500x500" >}}
 bailey x dall-e (ai generated)
 {{< /imgproc >}}
