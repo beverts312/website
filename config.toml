@@ -12,7 +12,15 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 enableMissingTranslationPlaceholders = true
 
-ignoreFiles = ['content/notes/crypto/.github/*','content/notes/crypto/.vscode/*','content/notes/crypto/ui/node_modules/*']
+ignoreFiles = [
+	'content/notes/crypto/.github/*',
+	'content/notes/crypto/.vscode/*',
+	'content/notes/crypto/ui/node_modules/*',
+	'content/notes/machine-learning/.devcontainer/*',
+	'content/notes/machine-learning/.vscode/*',
+	'content/notes/machine-learning/bails_ml_wrappers/*',
+	'content/notes/machine-learning/pytorch/*',
+]
 
 # Comment out to enable taxonomies in Docsy
 # disableKinds = ["taxonomy", "taxonomyTerm"]

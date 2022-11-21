@@ -4,3 +4,6 @@
 [submodule "content/notes/crypto"]
 	path = content/notes/crypto
 	url = git@github.com:beverts312/crypto-learning.git
+[submodule "content/notes/machine-learning"]
+	path = content/notes/machine-learning
+	url = git@github.com:beverts312/machine-learning.git
