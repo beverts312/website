@@ -3,14 +3,9 @@ title: Resume
 type: docs
 ---
 
-[PDF Version](https://s3.amazonaws.com/repo.baileyeverts.com/resume-2022.pdf)
-
 ## Professional Summary
 
-I am a passionate technologist who loves to learn. I am capable of working on any part of the stack at any point in the process. 
-Designing scalable development flows/pipelines that start at a commit and end at production is one of my passions. Experienced in the journey to microservices and the procedural and cultural changes that come along with it.
-It is my belief that teams and organizations should have open, candid, and respectful
-communication so that they can be as effective as possible.
+I am a dedicated technical leader with an insatiable appetite for learning. Proficient in every aspect of the technology stack, I specialize in crafting scalable development workflows that seamlessly traverse from the initial commit to production deployment—a pursuit I'm deeply passionate about. My extensive experience spans the transformation towards microservices, encompassing both the procedural and cultural shifts inherent in both startup and enterprise landscapes. Furthermore, my keen focus extends to AI, cloud technologies, DevOps, and the dynamic realm of cryptocurrency.
 
 * [LinkedIn](https://www.linkedin.com/in/beverts312/)
 * [Github](https://github.com/beverts312)
@@ -24,9 +19,10 @@ communication so that they can be as effective as possible.
     end="Present"
 >}}
 * Lead a team within Platform Engineering which enables other teams in the enterprise to migrate to the cloud by providing them with tooling and platforms for both Azure and AWS
-* Design core aspects of our EKS based Kubernetes platform
-* Develop reusable infrastructure templates for AWS and Azure using terraform
+* Design, build, and support core aspects of our EKS based Kubernetes platform (currently hosts 1500+ applications)
+* Develop reusable infrastructure templates and patterns for AWS and Azure using terraform
 * Lead all Azure migration efforts in the business unit
+
 {{</job>}}
 
 {{<job
