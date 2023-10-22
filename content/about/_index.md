@@ -15,6 +15,10 @@ This site is my playground, blog, and a place to keep some notes. Any opinions e
 My wife and I at my brothers wedding reception in Northern Ireland
 {{< /imgproc >}}
 
+{{< imgproc bailey-ai.jpg Fill "500x500" >}}
+AI Generated Self-Portrait
+{{< /imgproc >}}
+
 {{< imgproc dall-e-dog-cigar.png Fill "500x500" >}}
 bailey x dall-e (ai generated)
 {{< /imgproc >}}
