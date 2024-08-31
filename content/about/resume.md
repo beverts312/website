@@ -5,7 +5,15 @@ type: docs
 
 ## Professional Summary
 
-I am a dedicated technical leader with an insatiable appetite for learning. Proficient in every aspect of the technology stack, I specialize in crafting scalable development workflows that seamlessly traverse from the initial commit to production deployment—a pursuit I'm deeply passionate about. My extensive experience spans the transformation towards microservices, encompassing both the procedural and cultural shifts inherent in both startup and enterprise landscapes. Furthermore, my keen focus extends to AI, cloud technologies, DevOps, and the dynamic realm of cryptocurrency.
+I am technical leader with a strong focus on cloud architecture and platform engineering. My expertise spans the entire tech stack, enabling effective contributions at every project level.
+
+Core principles that guide my work include:
+* Open communication
+* Fostering continuous learning
+* Creating a safe work environment
+
+Driven by a passion for building robust, scalable solutions, I'm deeply committed to making a meaningful impact through my work. Simply put, I love what I do.
+
 
 * [LinkedIn](https://www.linkedin.com/in/beverts312/)
 * [Github](https://github.com/beverts312)
