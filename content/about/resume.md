@@ -21,10 +21,26 @@ Driven by a passion for building robust, scalable solutions, I'm deeply committe
 ## Work History
 
 {{<job
+    company="Adcellerant"
+    title="Director of Cloud Engineering"
+    start="March 2024"
+    end="Present"
+>}}
+* Responsible for all cloud infrastructure (GCP)
+* Define cloud strategy and architectural patterns 
+* Design and build out a GitOps driven infrastructure 
+* Design and build out a GitOps driven GKE platform
+* Ensure infrastructure is compliant, scalable, secure, and reliable
+* Provide a seemless developer experience 
+* Play a major role in driving engineering direction, processes, and strategy
+
+{{</job>}}
+
+{{<job
     company="Fidelity Investments"
     title="Director, Cloud Engineering"
     start="April 2022"
-    end="Present"
+    end="February 2024"
 >}}
 * Lead a team within Platform Engineering which enables other teams in the enterprise to migrate to the cloud by providing them with tooling and platforms for both Azure and AWS
 * Design, build, and support core aspects of our EKS based Kubernetes platform (currently hosts 1500+ applications)
